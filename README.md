@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 
-* 🔭 I’m currently working on Nordico (nordico.tech, nordicotip.glitch.me
+* 🔭 I’m currently working on Nordico (nordico.tech, nordicotip.glitch.me)
 * 👯 I’m looking to collaborate on Nordico and MySchool
 * 🤔 I’m looking for help with JavaScript
 * 💬 Ask me about HTML, CSS and some JavaScript
