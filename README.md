@@ -5,14 +5,14 @@
 ### Hi there 👋
 
 
-* 🔭 I’m currently working on Nordico (nordico.tech, nordicotip.glitch.me)
-* 👯 I’m looking to collaborate on Nordico and MySchool
+* 🔭 I’m currently working on Tryp
+* 👯 I’m working on Tryp and on zomeet
 * 🤔 I’m looking for help with JavaScript
 * 💬 Ask me about HTML, CSS and some JavaScript
 * 📫 How to reach me: tiagorangel2011@gmail.com (NO SPAM, PLEASE!)
-* 🌐 My website: tiagorangel.repl.co
+* 🌐 My website: tiagorangel.com
 * 📜 My medium: tiagorangel2011.medium.com
-* 🎌Where I live: Portugal
+* 🎌 Where I live: Portugal
 * ⚡ Fun fact: I'm not a devolper
 
 
