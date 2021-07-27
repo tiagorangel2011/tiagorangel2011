@@ -5,8 +5,7 @@
 ### Hi there 👋
 
 
-* 🔭 I’m currently working on Tryp
-* 👯 I’m working on Tryp and on zomeet
+* 🔭 I’m currently working on Tryp and on zomeet
 * 🤔 I’m looking for help with JavaScript
 * 💬 Ask me about HTML, CSS and some JavaScript
 * 📫 How to reach me: tiagorangel2011@gmail.com (NO SPAM, PLEASE!)
