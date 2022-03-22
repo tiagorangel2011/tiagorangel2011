@@ -5,13 +5,12 @@
 ### Hi there 👋
 
 
-* 🔭 I’m currently working on Tryp and on my personal website
-* 🤔 I’m looking for help with React
-* 💬 Ask me about HTML, CSS and some JavaScript
+* 🔭 I’m currently working on Tryp.com
+* 🤔 I’m looking for help with React and Python
+* 💬 Ask me about HTML, CSS and JavaScript
 * 🌐 My website: tiagorangel.com
 * 📜 My medium: tiagorangel2011.medium.com
-* 🎌 Where I live: Portugal
-* ⚡ Fun fact: I'm not a devolper
+* 🚩 Where I live: Portugal
 
 > We're living the future so
 > the present is our past.
