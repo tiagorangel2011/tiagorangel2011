@@ -1,4 +1,4 @@
-<h1 align="center">Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
+![image](https://user-images.githubusercontent.com/70700766/174063291-809cc640-bf59-438d-9538-513aa505173b.png)
 
 
 * 🔭 I’m currently working on Tryp.com
