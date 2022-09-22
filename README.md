@@ -14,9 +14,7 @@
 ### 📊 Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=tiagorangel2011&include_all_commits=true&show_icons=true&theme=github_light&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagorangel2011&theme=github_light&hide_border=true" alt="rakesh's github streak" width="48%" >
+
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorangel2011&theme=github_light&hide_border=true&layout=compact" />
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=tiagorangel2011.tiagorangel2011" alt="visitors">
@@ -24,4 +22,4 @@
 
 <br/><br/>
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+[![Russia has invaded Ukraine and already killed tens of thousands of civilians, with many more raped or tortured. The death toll keeps climbing. It's a genocide. Let's fight back against the Russian regime: Click to know more](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
