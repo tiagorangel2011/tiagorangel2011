@@ -4,7 +4,7 @@
 * 🔭 I’m a student
 * 🤔 I’m looking for help with React
 * 💬 Ask me about HTML, CSS, JavaScript and Python
-* 🌐 My website: [tiagorangel.com](https://tiagorangel.com/?ref=github-profile)
+* 🌐 My website: [tiagorangel.com](https://tiagorangel.com/)
 * 📜 My medium: tiagorangel2011.medium.com
 * 🚩 Where I live: Portugal
 
