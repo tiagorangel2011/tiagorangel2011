@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/70700766/174063291-809cc640-bf59-438d-9538-513aa505173b.png)
+![Hi!](https://user-images.githubusercontent.com/70700766/174063291-809cc640-bf59-438d-9538-513aa505173b.png)
 
 
 * 🔭 I’m a student
@@ -17,7 +17,7 @@
 
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorangel2011&theme=github_light&hide_border=true&layout=compact" />
 <br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=tiagorangel2011.tiagorangel2011" alt="visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=tiagorangel2011.tiagorangel2011&left_text=Profile%20Visitors&format=true" alt="visitors">
 </div>
 
 <br/><br/>
