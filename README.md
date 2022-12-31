@@ -11,15 +11,10 @@
 > We're living the future so
 > the present is our past.
 
-### 📊 Stats
-
-<div align="center">
-
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorangel2011&theme=github_light&hide_border=true&layout=compact" />
-<br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=tiagorangel2011.tiagorangel2011&left_text=Profile%20Visitors&format=true" alt="visitors">
-</div>
-
 <br/><br/>
 
-[![Russia has invaded Ukraine and already killed tens of thousands of civilians, with many more raped or tortured. The death toll keeps climbing. It's a genocide. Let's fight back against the Russian regime: Click to know more](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+![image](https://user-images.githubusercontent.com/70700766/210155995-49dcac51-681d-4235-9107-7e4c18ea02b3.png)
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tiagorangel2011.tiagorangel2011&left_text=visitors&format=true" alt="visitors">
+</div>
