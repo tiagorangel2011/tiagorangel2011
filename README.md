@@ -15,6 +15,4 @@
 
 ![Warning](https://user-images.githubusercontent.com/70700766/212688068-53e14077-f8ce-4ce0-b934-4d882b412bc7.png)
 
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tiagorangel2011.tiagorangel2011&left_text=visitors&format=true" alt="visitors">
-</div>
