@@ -2,14 +2,10 @@
 
 
 * 🔭 I’m a student
-* 🤔 I’m looking for help with React
 * 💬 Ask me about HTML, CSS, JavaScript and Python
 * 🌐 My website: [tiagorangel.com](https://tiagorangel.com/)
-* 📜 My medium: tiagorangel2011.medium.com
-* 🚩 Where I live: Portugal
-
-> We're living the future so
-> the present is our past.
+* 📜 My blog: [blog.tiagorangel.com](https://blog.tiagorangel.com/)
+* 🚩 Where I live: Lisbon, Portugal
 
 <br/><br/>
 
