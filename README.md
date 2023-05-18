@@ -21,6 +21,3 @@
 * ⚠️ Warning: Most of my projects aren't on Github (they're on Glitch),
               so don't expect me to have a too greenish contribution graph.
 ```
-```
-Thank you the visit!
-```
