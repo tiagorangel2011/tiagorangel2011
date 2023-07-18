@@ -19,5 +19,5 @@
 * 📜 Blog: [blog.tiagorangel.com](https://blog.tiagorangel.com/)
 * 🚩 Where I live: Lisbon, Portugal
 * ⚠️ Warning: Most of my projects aren't on Github (they're on Glitch),
-              so don't expect me to have a too greenish contribution graph.
+              so don't expect me to have a contribution graph that is too green.
 ```
